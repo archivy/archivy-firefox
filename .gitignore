@@ -1,0 +1,5 @@
+dist/
+__pycache__/
+build/
+archivy_firefox.egg-info/
+__pycache__/
