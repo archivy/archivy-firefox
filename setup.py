@@ -13,7 +13,7 @@ setup(
     author="Uzay-G",
     author_email="halcyon@disroot.org",
     description=(
-        "Archivy extension to download Firefox bookmarks into Archivy."
+        "Archivy extension to download your Firefox bookmarks."
     ),
     long_description=long_description,
     long_description_content_type="text/markdown",
